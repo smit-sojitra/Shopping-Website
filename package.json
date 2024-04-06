@@ -46,6 +46,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.2.8"
   }
 }
