@@ -6,7 +6,7 @@ import Cart from "./Pages/Cart";
 
 function App() {
   return (
-    <div>
+    <>
       <div className="bg-slate-800">
         <Navbar/>
       </div>
@@ -14,7 +14,7 @@ function App() {
         <Route path="/" element={<Home/>}/>
         <Route path="/cart" element={<Cart/>}/>
       </Routes>
-    </div>
+    </>
   );
 }
 
