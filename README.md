@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+## Shopping Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visit here: [shopping-website.vercel.app](https://shopping-website-814.netlify.app/)
 
-## Available Scripts
+### [Shopping Website](https://shopping-website-814.netlify.app/)
 
-In the project directory, you can run:
+This website allows users to browse products, add items to their cart, and make purchases. Built with React, Redux Toolkit, and Tailwind CSS, the website is fully responsive and provides a smooth shopping experience.
 
-### `npm start`
+#### Key Features
+- **React**: Utilized for building a dynamic and responsive user interface.
+- **Redux Toolkit**: Employed for efficient state management across the application, especially for handling the shopping cart and user sessions.
+- **Tailwind CSS**: Applied for styling the user interface, ensuring a clean and modern design.
+- **Responsive Design**: The website is fully responsive, providing an optimal viewing experience across devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Tech Stack
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### How to Use
+1. **Browse Products**: Explore various products listed on the website.
+2. **Add to Cart**: Add items to your shopping cart for later purchase.
+3. **Checkout**: Complete your purchase through the checkout process.
 
-### `npm test`
+## Screenshots
+![App Screenshot](https://res.cloudinary.com/durpz9kvb/image/upload/v1723817341/Image/Screenshot_2024-08-16_193423_pl4fpw.png)
+![App Screenshot](https://res.cloudinary.com/durpz9kvb/image/upload/v1723817342/Image/Screenshot_2024-08-16_193440_zluca8.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Check out the project repository for more details: [Shopping Website](https://github.com/smit-sojitra/Shopping-Website).
+---
+## 🔗 Links
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-sojitra-a101922a6/)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smit-sojitra)
